@@ -19,6 +19,6 @@ An image of the board with printed letters:
 
 ___
 
-Thingiverse link: `<to be posted>`
+Thingiverse link (contains STL files): https://www.thingiverse.com/thing:4404723
 
 **Issues/PRs welcome**
